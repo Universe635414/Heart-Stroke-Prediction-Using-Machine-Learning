@@ -1,1 +1,1 @@
-# Heart-Stroke-Prediction
+# Machine Learning Projects
